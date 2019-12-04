@@ -50,7 +50,9 @@ A user sees a schedule of events, each with a button to register. When the user 
 
 The event page shows 20 tables, each with a man and woman, and a bar area with 60 people. There is currently no functionality for choosing an empty spot, seeing a list of other attendees, filtering by gender or selecting.
 
-There is no waitlist functionality.
+There is no wait list functionality.
+
+As admin, adding an event renders the event list updated with the new event. The Add Event link on the admin page does not function correctly when clicked again.   
 
 ## Attendee Matching Algorithm
 
