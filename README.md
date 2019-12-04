@@ -48,7 +48,7 @@ The scope of this project does not include a database. Rather than use Redux as 
 
 A user sees a schedule of events, each with a button to register. When the user registers, the button is replaced by a link to attend the event. Currently, navigating away from the user page and then back to it will show the register button again.
 
-The event page shows 20 tables, each with a man and woman, and a bar area with 60 people. There is currently no functionality for choosing an empty spot, seeing a list of other attendees, filtering by gennder or selecting.
+The event page shows 20 tables, each with a man and woman, and a bar area with 60 people. There is currently no functionality for choosing an empty spot, seeing a list of other attendees, filtering by gender or selecting.
 
 There is no waitlist functionality.
 
