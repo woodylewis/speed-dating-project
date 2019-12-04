@@ -5,8 +5,6 @@ A partially completed assessment running in an AWS S3 bucket behind a CloudFront
 
 [https://wlsllc.io](https://wlsllc.io)
 
-And the github repo
-
 ## What this is not
 
 A production-level example of my work.
